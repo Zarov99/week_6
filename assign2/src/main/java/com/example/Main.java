@@ -23,7 +23,7 @@ public class Main {
         public int speed() {
             return 0;
         }
-        
+        //this is a test
         public void go() {
             System.out.println("Going");
         }
